@@ -15,8 +15,6 @@
         <p class="lead">Eu sou Melissa_</p>
         <p>Sou Estudante do Ensino Médio </p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
         </div>
