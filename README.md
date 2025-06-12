@@ -14,7 +14,6 @@
         <img src="img/avatar-perfil.png" alt="avatar da Melissa" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Melissa_</p>
         <p>Sou Estudante do Ensino Médio </p>
-        <p>Minhas habilidades</p>
         <div>
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
